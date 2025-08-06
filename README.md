@@ -33,3 +33,10 @@ You must agree to the following terms:
 - You use or modify this code **at your own risk**.
 
 Always respect the Terms of Service and community rules of any game you interact with.
+
+## Prerequisites
+
+- Cheat Engine: [https://cheatengine.org](https://cheatengine.org)
+- Visual Studio Community: [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
+- CS 1.6 game files: find yourself
+- Extreme Injector: search online (may be flagged by antivirus)
